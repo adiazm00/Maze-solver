@@ -1,0 +1,1 @@
+En esta carpeta se guardan los archivos generados y necesarios para comprobar las soluciones
